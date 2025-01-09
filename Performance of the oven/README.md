@@ -4,8 +4,8 @@ Link alternatif : https://colab.research.google.com/drive/1aTZ2QeFlyF0Ud0iPd_huq
 
 **Deskripi dataset** : Dataset ini diambil dari sistem Distributed Control System (DCS) pada unit Delayed Coker dengan tujuan membangun sebuah Digital Twin untuk Oxygen Analyzer dan mengevaluasinya. 
 Terdapat 2 dataset yang akan dianalisi:
- *Dataset Temperatures 
- *Dataset F,P, dan %O2
+ * Dataset Temperatures 
+ * Dataset F,P, dan %O2
 
 **Tahapan Pengolahan Data**
 1. Exploratory Data Analysis (EDA) : plot dataset dengan histogram dan time series. Tahapan ini untuk melihat periode data mana yang akan diambil untuk diproses. Periode waktu yang diambil : Februari hingga Juni 2017.
