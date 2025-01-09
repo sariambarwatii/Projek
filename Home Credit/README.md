@@ -1,5 +1,4 @@
-Link Colab : https://colab.research.google.com/drive/1lCXaj0VzArGeaRvVyxA9PDvSKhT4CV3z?usp=sharing
-
+Link Colab (copy from my kaggle notebook) : https://colab.research.google.com/drive/1lCXaj0VzArGeaRvVyxA9PDvSKhT4CV3z?usp=sharing
 **Tujuan Proyek**: Proyek ini bertujuan untuk memprediksi kemampuan pemohon pinjaman dalam membayar kembali pinjaman.
 
 **Deskripsi Dataset**:
@@ -16,3 +15,5 @@ Link Colab : https://colab.research.google.com/drive/1lCXaj0VzArGeaRvVyxA9PDvSKh
 3. Modeling : Random Forest serta hyperparameter tuning dengan randomsearch.
 4. Evaluasi Model : Confusion matrix dan ROC curve.
 ![image](https://github.com/user-attachments/assets/e3ac2f33-326f-4b4e-8c94-c643db5e1b67)
+
+
