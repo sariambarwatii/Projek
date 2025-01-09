@@ -1,4 +1,5 @@
 Link alternatif dengan Colab  : https://colab.research.google.com/drive/1lCXaj0VzArGeaRvVyxA9PDvSKhT4CV3z?usp=sharing
+Source dataset : kaggle competitions download -c home-credit-default-risk
 
 **Tujuan Proyek**: Proyek ini bertujuan untuk memprediksi kemampuan pemohon pinjaman dalam membayar kembali pinjaman.
 
