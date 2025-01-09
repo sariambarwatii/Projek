@@ -1,4 +1,5 @@
 Link Colab (copy from my kaggle notebook) : https://colab.research.google.com/drive/1lCXaj0VzArGeaRvVyxA9PDvSKhT4CV3z?usp=sharing
+
 **Tujuan Proyek**: Proyek ini bertujuan untuk memprediksi kemampuan pemohon pinjaman dalam membayar kembali pinjaman.
 
 **Deskripsi Dataset**:
