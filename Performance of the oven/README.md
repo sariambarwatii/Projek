@@ -23,5 +23,7 @@ Terdapat 2 dataset yang akan dianalisis:
    
       ![image](https://github.com/user-attachments/assets/b84fe65b-f368-4431-9512-e7e56576414d)
 
+### Requirement
+Recommend : versi searbon 0.13.2
 
 
