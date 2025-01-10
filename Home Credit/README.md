@@ -23,3 +23,5 @@ Source dataset : https://www.kaggle.com/competitions/home-credit-default-risk/da
 ![image](https://github.com/user-attachments/assets/e3ac2f33-326f-4b4e-8c94-c643db5e1b67)
 
 
+### Requirement
+Recommend : versi searbon 0.13.2
