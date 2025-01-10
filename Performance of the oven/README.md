@@ -12,11 +12,14 @@ Terdapat 2 dataset yang akan dianalisi:
 2. Preprocessing : Handling missing value dengan backward dan forward, mengecek korelasi antar feature dan melakukan penghapusan feature yang memiliki korelasi rendah (<0.8) dengan Target (%O2). Selanjutnya, dataset tanpa target direduksi dimensinya dengan PCA n_components = 11.
 3. Modeling : Menggunakan 2 jenis model Supervised regression, yaitu Linear Regression dan Super Vector Regression (SVR).
 4. Evaluasi : R2 dan MSE.
+   
    a. Linear Regression : R2 = R2: 0.9793, MSE = 0.5389
-   ![image](https://github.com/user-attachments/assets/a6419f38-105a-4496-968d-a5d0800ac3d9)
+   
+      ![image](https://github.com/user-attachments/assets/a6419f38-105a-4496-968d-a5d0800ac3d9)
 
    b. SVR : R2 = R2: 0.9807, MSE = 0.5024
-   ![image](https://github.com/user-attachments/assets/b84fe65b-f368-4431-9512-e7e56576414d)
+   
+      ![image](https://github.com/user-attachments/assets/b84fe65b-f368-4431-9512-e7e56576414d)
 
 
 
