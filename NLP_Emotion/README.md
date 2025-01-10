@@ -4,7 +4,7 @@ Klasifikasi emosi berdasarkan teks yang diberikan.
 ### **Deskripsi dataset** 
 Terdapat 3 data, yaitu train, test, dan val.
 
-### **Tahapa Pengolahan Data** 
+### **Tahapan Pengolahan Data** 
 1. Load Dataset : membagi menjadi 2 bagian teks dan label.
 2. EDA.
 3. Label Encoding.
