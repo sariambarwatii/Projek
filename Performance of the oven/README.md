@@ -1,5 +1,5 @@
-Link alternatif : https://colab.research.google.com/drive/1aTZ2QeFlyF0Ud0iPd_huqq3Eb1f0xyhC?usp=sharing
-Source dataset : https://www.kaggle.com/datasets/jorgecamilogamboa/cokerunit12
+* Link alternatif : https://colab.research.google.com/drive/1aTZ2QeFlyF0Ud0iPd_huqq3Eb1f0xyhC?usp=sharing
+* Source dataset : https://www.kaggle.com/datasets/jorgecamilogamboa/cokerunit12
 
 **Tujuan Proyek** : Mengevaluasi performansi sistem melalui 4 variabel, yaitu Temperature (suhu), Pressure (tekanan), Flow (aliran), dan Oxygen Concentration (konsentrasi oksigen).
 
