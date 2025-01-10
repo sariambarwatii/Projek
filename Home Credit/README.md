@@ -12,12 +12,12 @@ Source dataset : https://www.kaggle.com/competitions/home-credit-default-risk/da
 1. Exploratory Data Analysis (EDA)
 2. Preprocessing:
    * Handling Missing Values: Menangani missing data dengan median.
-   * Mengganti data unknown dalam kolom kategorikal menggunakan modus.
-   * Handling Outliers pada kolom **DAYS_EMPLOYED, DAYS_TERMINATION.......**
-   * Mengonversi kolom DAYS_BIRTH ke satuan hari.
+   * Mengganti data unknown dalam kolom kategorikal menggunakan mode.
+   * Handling Outliers pada kolom **DAYS_EMPLOYED, DAYS_FIRST_DRAWING, DAYS_FIRST_DUE, DAYS_LAST_DUE_1ST_VERSION, DAYS_LAST_DUE, DAYS_TERMINATION.**
+   * Mengonversi kolom **DAYS_BIRTH** ke satuan hari.
    * Feature Encoding.
    * Drop Feature dengan korelasi rendah dan proporsi nilai nol yang tinggi.
-   * Handling Imbalanced Data: menggunakan oversampling pada kolom TARGET.
+   * Handling Imbalanced Data: menggunakan oversampling.
 4. Modeling : Supervised Learning Classification dengan Random Forest serta hyperparameter tuning randomsearch.
 5. Evaluasi Model : Confusion matrix dan ROC curve.
 ![image](https://github.com/user-attachments/assets/e3ac2f33-326f-4b4e-8c94-c643db5e1b67)
