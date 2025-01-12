@@ -12,6 +12,7 @@ Sinyal hasil filtering akan digunakan untuk tahapan selanjutnya.
 4. Classification : dataset akhir terdiri atas 144x37 kolom. Model yang digunakan, yaitu random forest, decision tree, dan xgboost.
 5. Evaluasi : akurasi. Performa terbaik pada model XGBoost dengan akurasi 87%.
 
+```
              precision    recall  f1-score   support  
        0       0.95      0.79      0.86        24
        1       0.80      0.95      0.87        21
