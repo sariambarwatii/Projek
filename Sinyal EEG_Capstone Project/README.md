@@ -5,12 +5,12 @@ Data yang digunakan berupa data primer yang diambil dari 6 subjek. Data diambil 
 Untuk klasifikasi stress level ringan dan berat berdasarkan sinyal EEG pada mahasiswa yang mengerjakan permasalahan numerik.
 
 # **Tahapan Pengolahan Data**
-a. Preprocessing : pemotongan sinyal setiap 30 detik dan filetring Band Pass.
+*a. Preprocessing : pemotongan sinyal setiap 30 detik dan filetring Band Pass.
 Sinyal hasil filtering akan digunakan untuk tahapan selanjutnya.
-b. Feature Extraction : band power, statistical, dan entropy
-c. Joining data.
-d. Classification : dataset akhir terdiri atas 144x37 kolom. Model yang digunakan, yaitu random forest, decision tree, dan xgboost.
-e. Evaluasi : akurasi. Performa terbaik pada model XGBoost dengan akurasi 87%.
+*b. Feature Extraction : band power, statistical, dan entropy
+*c. Joining data.
+*d. Classification : dataset akhir terdiri atas 144x37 kolom. Model yang digunakan, yaitu random forest, decision tree, dan xgboost.
+*e. Evaluasi : akurasi. Performa terbaik pada model XGBoost dengan akurasi 87%.
 
                  precision    recall  f1-score   support  
            0       0.95      0.79      0.86        24
