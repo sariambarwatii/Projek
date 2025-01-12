@@ -12,14 +12,18 @@ c. Joining data.
 d. Classification : dataset akhir terdiri atas 144x37 kolom. Model yang digunakan, yaitu random forest, decision tree, dan xgboost.
 e. Evaluasi : akurasi. Performa terbaik pada model XGBoost dengan akurasi 87%.
 
-precision    recall  f1-score   support
-
+                 precision    recall  f1-score   support  
            0       0.95      0.79      0.86        24
            1       0.80      0.95      0.87        21
 
     accuracy                           0.87        45
-   macro avg       0.88      0.87      0.87        45
-weighted avg       0.88      0.87      0.87        45
+    macro avg       0.88      0.87     0.87        45
+    weighted avg    0.88      0.87     0.87        45
 
-[[19  5]
- [ 1 20]]
+    [[19  5]
+     [ 1 20]]
+
+
+   
+
+
