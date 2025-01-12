@@ -1,13 +1,13 @@
-# **Link**
+## **Link**
 - Source dataset : https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp
 
-# **Tujuan Proyek**  
+## **Tujuan Proyek**  
 Klasifikasi 6 emosi (anger, fear, joy, love, sadness, surprise) berdasarkan teks yang diberikan.
 
-# **Deskripsi dataset** 
+## **Deskripsi dataset** 
 Terdapat 3 data, yaitu train, test, dan val.
 
-# **Tahapan Pengolahan Data** 
+## **Tahapan Pengolahan Data** 
 1. Load Dataset : membagi menjadi 2 bagian teks dan label.
 2. EDA.
 3. Label Encoding.
