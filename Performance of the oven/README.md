@@ -1,6 +1,6 @@
 # Link 
-⋅⋅⋅ * Open in Colab : https://colab.research.google.com/drive/1JTOOFVoPyI7fafmRfqayezc9WMSEqr50?usp=sharing
-⋅⋅⋅ * Source dataset : https://www.kaggle.com/datasets/jorgecamilogamboa/cokerunit12
+   * Open in Colab : https://colab.research.google.com/drive/1JTOOFVoPyI7fafmRfqayezc9WMSEqr50?usp=sharing
+   * Source dataset : https://www.kaggle.com/datasets/jorgecamilogamboa/cokerunit12
 
 
 # **Tujuan Proyek**  
