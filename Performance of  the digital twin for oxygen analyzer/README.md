@@ -15,8 +15,9 @@ Terdapat 2 dataset yang akan dianalisis:
 # **Tahapan Pengolahan Data**
 1. Exploratory Data Analysis (EDA) : plot dataset dengan histogram dan time series. Tahapan ini untuk melihat periode data mana yang akan diambil untuk diproses. Hasil periode waktu yang diambil adalah 15 Februari hingga 9 Juni 2017.
 2. Preprocessing : Handling missing value dengan backward dan forward, mengecek korelasi antar feature dan melakukan penghapusan feature yang memiliki korelasi rendah dengan Target (%O2). Selanjutnya, dataset tanpa target direduksi dimensinya dengan PCA n_components = 11.
-3. Modeling : Menggunakan 2 jenis model Supervised regression, yaitu Linear Regression dan Super Vector Regression (SVR).
-4. Evaluasi : R2 dan MSE.
+3. Joining data menggunakan 'left'.
+4. Modeling : Menggunakan 2 jenis model Supervised regression, yaitu Linear Regression dan Super Vector Regression (SVR).
+5. Evaluasi : R2 dan MSE.
    
    a. Linear Regression : R2 = R2: 0.9793, MSE = 0.5389
    
