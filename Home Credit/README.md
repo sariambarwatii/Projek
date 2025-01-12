@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/da67730b-24d7-4054-bcd7-4ea0bffc7a86)# **Link**
+# **Link**
   - Open in Colab  : https://colab.research.google.com/drive/1pwG64VWwW8i8viFi2GiJ5yLMZOx6Bz91?usp=sharing
   - Source dataset : https://www.kaggle.com/competitions/home-credit-default-risk/data
 
