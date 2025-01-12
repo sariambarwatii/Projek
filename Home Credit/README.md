@@ -20,7 +20,7 @@ Pada proyek ini diambil 2 dataset, yaitu :
    * Mengonversi kolom **DAYS_BIRTH** ke satuan hari.
    * Feature Encoding.
    * Drop Feature dengan korelasi rendah dan proporsi nilai nol yang tinggi.
-   * Handling Imbalanced Data: menggunakan oversampling.
+   * Handling Imbalanced Data: SMOTE oversampling.
 3. Joining data menggunakan 'left'.
 4. Modeling : Supervised Learning Classification dengan Random Forest serta hyperparameter tuning randomsearch.
 5. Evaluasi Model : ROC curve.
