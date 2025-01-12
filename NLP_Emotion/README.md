@@ -6,7 +6,7 @@
 Klasifikasi 6 emosi (anger, fear, joy, love, sadness, surprise) berdasarkan teks yang diberikan.
 
 ## **Deskripsi dataset** 
-Terdapat 3 data, yaitu train, test, dan val.
+Daraset terdiri dari kolom teks dan labels. Terdapat 3 data, yaitu train (16000), test(2000), dan val(2000).
 
 ## **Tahapan Pengolahan Data** 
 1. Load Dataset : membagi menjadi 2 bagian teks dan label.
