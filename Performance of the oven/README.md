@@ -1,4 +1,4 @@
-* Link alternatif : https://colab.research.google.com/drive/1aTZ2QeFlyF0Ud0iPd_huqq3Eb1f0xyhC?usp=sharing
+* Open in Colab : https://colab.research.google.com/drive/1JTOOFVoPyI7fafmRfqayezc9WMSEqr50?usp=sharing
 * Source dataset : https://www.kaggle.com/datasets/jorgecamilogamboa/cokerunit12
 
 
