@@ -5,6 +5,7 @@
 Melakukan clustering pada dataset ke dalam 3 cluster yang akan membantu dalam memprediksi biaya medis pasien.
 
 ## **Deskripsi Dataset**
+Data berukuran 1338x7 kolom. Kolom tersebut diantaranya age,sex,bmi,charges,region,smoker
 
 ## **Tahapan Pengolahan Data**
 ### **a. Clustering**
