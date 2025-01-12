@@ -4,10 +4,10 @@
 
 
 # **Tujuan Proyek**  
-Mengevaluasi performansi sistem melalui 4 variabel, yaitu Temperature (suhu), Pressure (tekanan), Flow (aliran), dan Oxygen Concentration (konsentrasi oksigen).
+Membangun dan mengevaluasi Digital Twin untuk sistem Oxygen Analyzer dengan menganalisis hubungan antara Temperature (suhu), Pressure (tekanan), Flow (aliran), dan Oxygen Concentration (konsentrasi oksigen).
 
 # **Deskripi dataset**  
-Dataset ini diambil dari sistem Distributed Control System (DCS) pada unit Delayed Coker dengan tujuan membangun sebuah Digital Twin untuk Oxygen Analyzer dan mengevaluasinya. Pengumpulan data dilakukan dari 1/7/2016 hingga 17/6/2018.
+Dataset ini diambil dari sistem Distributed Control System (DCS) pada unit Delayed Coker dengan tujuan membangun sebuah Digital Twin untuk Oxygen Analyzer. Pengumpulan data dilakukan dari 1/7/2016 hingga 17/6/2018.
 Terdapat 2 dataset yang akan dianalisis:
  * Temperature : terdapat 20 kolom suhu yang berbeda dengan satuan °C.
  * F,P, dan %O2 : terdapat 19 kolom yang terdiri dari Flows, Pressure, dan Concentration of Oxygen.
