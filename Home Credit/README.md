@@ -26,7 +26,7 @@ Pada proyek ini diambil 2 dataset, yaitu :
    * Handling Imbalanced Data: SMOTE oversampling.
 3. Joining data menggunakan 'left'.
 4. Modeling : Supervised Learning Classification dengan Random Forest serta hyperparameter tuning randomsearch.
-5. Evaluasi Model : ROC curve.
+5. Evaluasi Model : Area Under ROC curve.
 ![image](https://github.com/user-attachments/assets/e3ac2f33-326f-4b4e-8c94-c643db5e1b67)
 
 
