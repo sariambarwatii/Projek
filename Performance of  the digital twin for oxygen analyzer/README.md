@@ -6,6 +6,9 @@
 # **Tujuan Proyek**  
 Membangun dan mengevaluasi Digital Twin untuk sistem Oxygen Analyzer dengan menganalisis hubungan antara Temperature (suhu), Pressure (tekanan), Flow (aliran), dan Oxygen Concentration (konsentrasi oksigen).
 
+# **Manfaat Proyek**
+Proyek ini diharapkan dapat memberikan wawasan tentang hubungan antar variabel sehingga dapat digunakan untuk meningkatkan akurasi analisis gas pada sistem oxygen analyzer. Hasil ini dapat berpotensi digunakan dalam pengembangan sistem monitoring berbasis data untuk optimasi proses industri, misalnya meningkatkan performansi oven.
+
 # **Deskripi dataset**  
 Dataset ini diambil dari sistem Distributed Control System (DCS) pada unit Delayed Coker dengan tujuan membangun sebuah Digital Twin untuk Oxygen Analyzer. Pengumpulan data dilakukan dari 1/7/2016 hingga 17/6/2018.
 Terdapat 2 dataset yang akan dianalisis:
