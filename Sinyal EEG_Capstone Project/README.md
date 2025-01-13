@@ -5,7 +5,7 @@ Data yang digunakan berupa data primer yang diambil dari 6 subjek. Data diambil 
 Untuk klasifikasi stress level ringan dan berat berdasarkan sinyal EEG pada mahasiswa yang mengerjakan permasalahan numerik.
 
 # **Tahapan Pengolahan Data**
-1. Preprocessing : pemotongan sinyal setiap 30 detik dan filetring Band Pass.
+1. Preprocessing : pemotongan sinyal setiap 30 detik dan filtering Band Pass.
 Sinyal hasil filtering akan digunakan untuk tahapan selanjutnya.
 2. Feature Extraction : band power, statistical, dan entropy
 3. Joining data.
