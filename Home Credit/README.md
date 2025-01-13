@@ -29,4 +29,10 @@ Pada proyek ini diambil 2 dataset, yaitu :
 5. Evaluasi Model : Area Under ROC curve.
 ![image](https://github.com/user-attachments/assets/e3ac2f33-326f-4b4e-8c94-c643db5e1b67)
 
+### Enviroment 
+Proyek ini dikembangkan menggunakan [Kaggle Notebook]
 
+### Cara Menjalankan
+1. Unduh lalu import notebook di kaggle.
+2. Pastikan dataset sudah ditambahkan ke notebook melalui fitur `Add Input` di Kaggle.
+4. Jalankan setiap sel di notebook secara berurutan.
