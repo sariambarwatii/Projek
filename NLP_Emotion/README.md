@@ -19,3 +19,10 @@ Daraset terdiri dari kolom teks dan labels. Terdapat 3 data, yaitu train (16000)
    ![image](https://github.com/user-attachments/assets/e891a902-7e1a-4779-8265-6a3e4442a6ba)
    ![image](https://github.com/user-attachments/assets/89db68d8-2f04-4049-b95c-ecde44e456e6)
 
+### Enviroment 
+Proyek ini dikembangkan menggunakan [Kaggle Notebook]
+
+### Cara Menjalankan
+1. Unduh lalu import notebook di kaggle.
+2. Pastikan dataset sudah ditambahkan ke notebook melalui fitur `Add Input` di Kaggle.
+4. Jalankan setiap sel di notebook secara berurutan.
