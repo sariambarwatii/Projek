@@ -30,4 +30,11 @@ Terdapat 2 dataset yang akan dianalisis:
    
       ![image](https://github.com/user-attachments/assets/b84fe65b-f368-4431-9512-e7e56576414d)
 
+### Enviroment 
+Proyek ini dikembangkan menggunakan [Kaggle Notebook]
+
+### Cara Menjalankan
+1. Unduh lalu import notebook di kaggle.
+2. Pastikan dataset sudah ditambahkan ke notebook melalui fitur `Add Input` di Kaggle.
+4. Jalankan setiap sel di notebook secara berurutan.
 
