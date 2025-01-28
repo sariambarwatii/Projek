@@ -1,7 +1,4 @@
-# **Link**
-  - Open in Colab  : https://colab.research.google.com/drive/1pwG64VWwW8i8viFi2GiJ5yLMZOx6Bz91?usp=sharing
-  - Source dataset : https://www.kaggle.com/competitions/home-credit-default-risk/data
-
+# **OVERVIEW PROJECT**
 # **Tujuan Proyek**
 Proyek ini bertujuan untuk memprediksi kemampuan pemohon pinjaman dalam membayar kembali pinjaman.
 
@@ -16,18 +13,25 @@ Pada proyek ini diambil 2 dataset, yaitu :
 
 # **Tahapan Pengolahan Data**:
 1. Exploratory Data Analysis (EDA) : tahapan ini dilakukan pada kedua dataset.
-2. Preprocessing : tahapan ini dilakukan pada kedua dataset. Berikut beberapa detail tahapan :
-   * Handling Missing Values: Menangani missing data dengan median.
+2. Feature Engineering:  Berikut beberapa detail tahapan :
+   * Handling Missing Values: Menangani missing data dengan median dan mengganti dengan nilai nol.
    * Mengganti data unknown dalam kolom kategorikal menggunakan mode.
-   * Handling Outliers pada kolom **DAYS_EMPLOYED, DAYS_FIRST_DRAWING, DAYS_FIRST_DUE, DAYS_LAST_DUE_1ST_VERSION, DAYS_LAST_DUE, DAYS_TERMINATION.**
-   * Mengonversi kolom **DAYS_BIRTH** ke satuan hari.
+   * Handling Anomaly.
    * Feature Encoding.
-   * Drop Feature dengan korelasi rendah dan proporsi nilai nol yang tinggi.
-   * Handling Imbalanced Data: SMOTE oversampling.
-3. Joining data menggunakan 'left'.
-4. Modeling : Supervised Learning Classification dengan Random Forest serta hyperparameter tuning randomsearch.
+   * Creating New Features.
+   * Data Aggregation.
+   * Feature Selection.
+3. Handling imbalance data : RandomUndersampling.
+4. Modeling : LGBMClassifier.
 5. Evaluasi Model : Area Under ROC curve.
-![image](https://github.com/user-attachments/assets/e3ac2f33-326f-4b4e-8c94-c643db5e1b67)
+![image](https://github.com/user-attachments/assets/39ba45cb-90da-405e-8c96-602aa10bf5e3)
+
+# **Revisi**
+Pada update terbaru ini, saya telah memperbaiki kesalahan yang ada pada model sebelumnya, yang berdampak pada penurunan hasil. 
+Saya telah mengupdate beberapa teknik dalam feature engineering, seperti handling anomaly, handling missing value, pembuatan fitur baru, penghapusan beberapa fitur terendah berdasarkan LGBM feature importance. Meskipun sebelumnya ada penurunan, model terbaru ini diharapkan dapat memberikan insight yang lebih baik untuk memprediksi kemampuan pemohon pinjaman untuk melunasi pinjamannya. 
+
+# **Link**
+  - Source dataset : https://www.kaggle.com/competitions/home-credit-default-risk/data
 
 ### Enviroment 
 Proyek ini dikembangkan menggunakan [Kaggle Notebook]
