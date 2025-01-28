@@ -32,6 +32,7 @@ Saya telah mengupdate beberapa teknik dalam feature engineering, seperti handlin
 
 # **Link**
   - Source dataset : https://www.kaggle.com/competitions/home-credit-default-risk/data
+  - Open in colab : https://colab.research.google.com/drive/1q5SKjPWHpL_KswWnn7qssDe0fDGiQm7y?usp=sharing
 
 ### Enviroment 
 Proyek ini dikembangkan menggunakan [Kaggle Notebook]
