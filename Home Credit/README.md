@@ -3,7 +3,7 @@
 Proyek ini bertujuan untuk memprediksi kemampuan pemohon pinjaman dalam membayar kembali pinjaman.
 
 # **Manfaat Proyek**
-Proyek ini diharapakan dapat memberikan wawasan bagi perusahaan untuk memitigasi resiko kredit macet dengan mengidentifikasi calon peminjam yang beresiko tinggi. Model ini dapat digunakan untuk meningkatkan efisiensi keputusan kredit, menjaga kstabilan portofolio kredit, dan mendukung strategi bisnis berbasis data.
+Proyek ini diharapakan dapat memberikan wawasan untuk memitigasi resiko kredit macet dengan mengidentifikasi calon peminjam yang beresiko tinggi. Model ini dapat digunakan untuk meningkatkan efisiensi keputusan kredit, menjaga kestabilan portofolio kredit, dan mendukung strategi bisnis berbasis data.
 
 # **Deskripsi Dataset**
 ![image](https://github.com/user-attachments/assets/143a8f9b-ddca-49e9-bf31-83019c614251)
