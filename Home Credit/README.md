@@ -11,6 +11,16 @@ Pada proyek ini diambil 2 dataset, yaitu :
 1. application_train.csv: dataset utama yang digunakan untuk melatih model, dengan kolom TARGET yang menunjukkan apakah pemohon mampu membayar pinjaman. Setiap baris dalam dataset ini mewakili satu aplikasi pinjaman.
 2. previous_application.csv: dataset ini mencatat seluruh aplikasi pinjaman yang diajukan sebelumnya oleh klien yang ada dalam dataset utama. Setiap baris mewakili satu aplikasi pinjaman sebelumnya, yang memberikan lebih banyak konteks dan riwayat pinjaman klien.
 
+# **Insight Utama dari Analisis
+- Fitur yang Paling Berpengaruh:
+`CREDIT_TERM`, `EXT_SOURCE_3`, `EXT_SOURCE_1`, `EXT_SOURCE_2`, dan `DAYS_BIRTH` memiliki pengaruh besar terhadap prediksi kemampuan peminjam untuk membayar pinjaman.
+- CREDIT_TERM:
+Merupakan rasio antara cicilan per bulan (`AMT_ANNUITY`) dan jumlah pinjaman (`AMT_CREDIT`). Rasio mendekati 1 menunjukkan pinjaman yang cepat dilunasi (beberapa bulan), sementara rasio yang sangat kecil menunjukkan pinjaman dengan jangka waktu lebih panjang.
+- EXT_SOURCE_1, EXT_SOURCE_2, EXT_SOURCE_3:
+Menunjukkan pentingnya data eksternal dalam meningkatkan prediksi dan mengurangi risiko. Menambahkan sumber data eksternal dapat membantu dalam memperkaya informasi mengenai peminjam.
+- DAYS_BIRTH (Usia):
+Peminjam yang lebih muda (berdasarkan `DAYS_BIRTH`) cenderung memiliki risiko lebih tinggi untuk gagal membayar pinjaman
+
 # **Tahapan Pengolahan Data**:
 1. Exploratory Data Analysis (EDA) : tahapan ini dilakukan pada kedua dataset.
 2. Feature Engineering:  Berikut beberapa detail tahapan :
