@@ -1,7 +1,7 @@
 # **Overview**
 This project aims to analyze credit card customer behavior, segment profiles, and profitablity insights using interactive dashboard in Power BI. The dataset contains customer demographic information, spending habits, and churn indicators.
 
-# **Obejectives**
+# **Objectives**
   - Understand customer attrition patterns
   - Analyze transaction behavior by card type and customer generation
   - Identify profitable customer segments
