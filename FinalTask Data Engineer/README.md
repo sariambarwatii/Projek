@@ -1,4 +1,3 @@
-# **Overview Projek**
 # **Deskripsi Projek**
 Bank menghadapi kesulitan dalam mengintegrasikan data dari berbagai sumber seperti Excel, CSV, dan SQL Server. Hal ini menyebabkan keterlambatan dalam pelaporan dan analisis. Untuk mengatasi hal tersebut, proyek ini bertujuan untuk:
 - Mengotomatisasi pemrosesan data dengan ETL.
