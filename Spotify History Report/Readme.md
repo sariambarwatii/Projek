@@ -7,7 +7,7 @@ The visual dashboard is designed using Power BI, with data sourced from exported
 - To apply data cleaning, transformation, and visualization techniques
 - To experiment with enriching raw data using APIsu
 
-# **Struktur Dashboard**
+# **Dashboard Structure**
   1. How do you listen to music overall?
   2. Who do you listen to the most?
   3. When do you listen into music the most?
