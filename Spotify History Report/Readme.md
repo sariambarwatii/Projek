@@ -5,7 +5,7 @@ The visual dashboard is designed using Power BI, with data sourced from exported
 # **Objectives**
 - To explore and understand personal music listening behavior
 - To apply data cleaning, transformation, and visualization techniques
-- To experiment with enriching raw data using APIsu
+- To experiment with enriching raw data using API
 
 # **Dashboard Structures**
   1. How do you listen to music overall?
