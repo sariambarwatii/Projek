@@ -1,10 +1,10 @@
 ## **Project Overview** 
 The dataset includes information about products, stores, sales transactions, and warranty claims across various Apple retail locations globally. 
 
-## ** Entity Relationship Diagram (ERD)
+## **Entity Relationship Diagram (ERD)**
 .
 
-## **Project Tasl**
+## **Project Task**
 --Projek Task
 --Task 1. Find the number of stores in each country
 ```sql
