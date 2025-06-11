@@ -2,7 +2,8 @@
 The dataset includes information about products, stores, sales transactions, and warranty claims across various Apple retail locations globally. 
 
 ## **Entity Relationship Diagram (ERD)**
-.
+![image](https://github.com/user-attachments/assets/053c4809-38f4-4efc-902d-8ac2953038d8)
+
 
 ## **Project Task**
 --Projek Task
